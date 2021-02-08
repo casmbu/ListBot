@@ -39,7 +39,7 @@ you can use the following commands:
     * $add <component>: adds a component to the list
     * $multi-add <element> <element> - adds mutiple elements \in a list
     * $help: shows you a message with the available commands
-    * $list: lists all the components \in the channel\'s list
+    * $list <page>: lists all the components \in the channel\'s list on given page
     * $log: a log of the versions
     * $poll <active_time_in_minutes>: creates a poll on 5 random items of the list. If attribute is not supplied the poll has no limitation of time.
     * $random: gives you a random component from the list
@@ -93,7 +93,7 @@ To connect on:
 
 ### :jack_o_lantern: Contributors Hacktoberfest 2020:
 
-<!-- readme: contributors -start --> 
+<!-- readme: contributors -start -->
 <table>
 <tr>
     <td align="center">

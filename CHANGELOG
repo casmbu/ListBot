@@ -3,3 +3,4 @@
 1.1.0 - Added the Poll function. WIP
 2.0   - Bot was completely revamped. Database now functioning
 3.0   - Bot got spookier on #Hacktoberfest2020. Added Add-Many, Remove-Many, Clear and Remind commands. Also lots of bug fixes and code optimization
+3.2.0 - Added page selection to list command.
